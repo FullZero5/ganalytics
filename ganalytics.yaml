@@ -1,0 +1,10 @@
+name: Flextype Google Analytics Plugin
+version: 0.1.0
+description: "Adds Google Analytics to your site."
+author:
+  name: Fullzero
+  email: fullzero5@gmail.com
+  url: - http://flextype.org/
+homepage: - https://github.com/FullZero5/ganalytics
+bugs: - https://github.com/FullZero5/ganalytics/issues
+license: MIT
